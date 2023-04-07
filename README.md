@@ -1,36 +1,8 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-OPTIONAL SECTIONS:
-- FAQ
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <!-- <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/> -->
 
-  <h3><b>Ruby's project title</b></h3>
+  <h3><b>My Enumerables</b></h3>
 
 </div>
 
@@ -39,7 +11,6 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Vet Clinic Database ](#-vet-clinic-database-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -57,26 +28,28 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Ruby's project title <a name="about-project"></a>
+# 📖 My ENumerables <a name="about-project"></a>
 
-**Ruby's project title** contains some queries of PostgreSQL database.
+**My Enumerables** is a project that enables a developer create their own enumerables inside a module and use them inside a class.
 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<!-- <details>
-<summary>Database</summary>
+<details>
+<summary>Front-End</summary>
   <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
+    <li><a href="https://ruby-doc.org/3.2.1/">Ruby</a></li>
   </ul>
-</details> -->
-
-<!-- Features -->
+</details>
 
 ### Key Features <a name="key-features"></a>
 
-- **Something**
+- **My Enumerables**
+- **My List Class**
+- **Enumerable `all` method**
+- **Enumerable `any` method**
+- **Enumerable `filter` method**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -92,19 +65,19 @@ In order to run this project you need:
 
 - Code Editor (VS Studio)
 - Node.js
-- PostgreSQL
+- Ruby
 
 ### Setup
 
 Clone this repository to your desired folder:
 
 ```sh
-  git clone https://github.com/The-Normal-One1/Vet-clinic-database.git
+  git clone https://github.com/The-Normal-One1/my_enumerable.git
 ```
 
 ### Usage
 
-To run the project, you can copy queries from the given files and use them into psql or pgAdmin 4.
+To run the project, navigate to the correct directory path and execute the `Ruby Filename` command on your terminal.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -118,13 +91,19 @@ To run the project, you can copy queries from the given files and use them into 
 - Twitter: [@DemsewErmiyas](https://twitter.com/DemsewErmiyas)
 - LinkedIn: [@Ermiyas Demsew](https://www.linkedin.com/in/ermiyas-demsew-616b1b19a/)
 
+👤 **Ezekiel Udiomuno**
+
+- GitHub: [@Ezzywealth](https://github.com/Ezzywealth)
+- Twitter: [@EzzyWealth](https://twitter.com/EzzyWealth)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/ezekiel-udiomnuno)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **More Tables**
+- None at the moment.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
